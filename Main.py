@@ -8,7 +8,7 @@ from scipy.signal import find_peaks
 
 import Classes
 from Classes import FileBrowser
-import GUI
+import UI
 import sys
 
 class MainApp(QtWidgets.QMainWindow, GUI.Ui_MainWindow):
